@@ -1,12 +1,12 @@
-<h2 align="center"> Hi 👋 , I'm Mark Moreira <br/></h2> 
-<h3 align="center">Also known as "Marco Dellacosta" to other people. <br> <br>
+<h2 align="left"> Hi 👋 , I'm Mark Moreira <br/></h2> 
+<h3 align="left">Also known as "Marco Dellacosta" to other people. <br> <br>
 
   
   [![Gmail Badge](https://img.shields.io/badge/-markmoreira11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:markmoreira11@gmail.com)](mailto:markmoreira11@gmail.com)
   
-  <h3 align="center">always learning</h3>
-<h2 align="center"><u>Personal Details</u></h2>
-<p align="center">
+  <h3 align="left">always learning</h3>
+<h2 align="left"><u>Personal Details</u></h2>
+<p align="left">
 
  - I'm trying to learn FLUTTER, PYTHON, DART and KOTLIN.
  
