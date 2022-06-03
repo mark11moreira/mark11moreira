@@ -4,6 +4,8 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/markmoreira?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   
+  [![Gmail Badge](https://img.shields.io/badge/-markmoreira11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:markmoreira11@gmail.com)](mailto:markmoreira11@gmail.com)
+  
   <h3 align="center">always learning</h3>
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
@@ -19,6 +21,5 @@
 
 </p>
   
-  <h2 align="center"><u>My Github Stats</u></h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=markmoreira&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markmoreira&theme=dracula">
+  ## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
