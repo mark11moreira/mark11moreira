@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋 , I'm Mark Moreira <br/></h2> 
+<h2 align="left"> Hi 👋 , I'm Marco Moreira <br/></h2> 
 <h3 align="left">Also known as "Marco Dellacosta" to other people. <br> <br>
 
   
@@ -8,13 +8,12 @@
 <h2 align="left"><u>Personal Details</u></h2>
 <p align="left">
 
- - I'm trying to learn FLUTTER, PYTHON, DART and KOTLIN.
- 
- - My hobby is reading books, listening music, playing games, photography and drink coffe and tea.
-
- - Sometimes, I write small poems and screenplays.
- 
- - I love to collect apps, games, movies, songs, fonts, iso etc.
+Flutter Developer | IT Specialist | Content Creator
+	•	Passionate about learning and mastering Flutter, Python, Dart, and Kotlin to create impactful applications.
+	•	Deep interest in technology and development, constantly exploring new frameworks and languages.
+	•	Outside of coding, I’m a lover of books, music, photography, and I enjoy gaming, along with a good cup of coffee or tea.
+	•	When inspiration strikes, I write poems and screenplays as a creative outlet.
+	•	Enthusiastic about collecting digital media – from apps, games, and movies to songs, fonts, and ISO files.
 
 
 </p>
