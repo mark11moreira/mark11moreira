@@ -1,5 +1,4 @@
 <h2 align="left"> Hi 👋 , I'm Marco Moreira <br/></h2> 
-<h3 align="left">Also known as "Marco Dellacosta" to other people. <br> <br>
 
   
   [![Gmail Badge](https://img.shields.io/badge/-markmoreira11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:markmoreira11@gmail.com)](mailto:markmoreira11@gmail.com)
